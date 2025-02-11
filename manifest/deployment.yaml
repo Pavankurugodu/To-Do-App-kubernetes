@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: pavirocks/todo-app:build-
+        image: pavirocks/todo-app:build-18
         ports:
         - containerPort: 80
